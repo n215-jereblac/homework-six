@@ -58,8 +58,7 @@
                 min-height: $tour-banner-height;
                 width: $tour-banner-width;
                 // background-color: purple;
-                background-position: center;
-                background-size: cover;
+                @include image-format;
                 text-align: center;
                 .tour-text {
                     color: $white;
