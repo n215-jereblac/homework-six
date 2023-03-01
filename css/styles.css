@@ -582,7 +582,718 @@ h1, h2, h3, h4, h5, h6, p {
   min-height: 2000px;
 }
 .israel .package-hero {
-  background-color: green;
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
+  width: 100%;
+  height: 413px;
+  color: #FFF;
+  font-family: "Proxima Nova Condensed";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .package-hero .package-text {
+  width: 100%;
+  height: 50%;
+  padding: 30px;
+}
+.israel .package-hero .package-text h1 {
+  font-size: 70px;
+}
+.israel .package-hero .price-text {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding-right: 15px;
+}
+.israel .package-hero .price-text p {
+  font-size: 30px;
+}
+.israel .pic-wrap {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.israel .pic-wrap .tour-pic {
+  height: 347px;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.israel .tour-text {
+  margin-bottom: 80px;
+}
+.israel .tour-text h2 {
+  font-size: 60px;
+  width: 175px;
+  letter-spacing: 5px;
+  border-bottom: 2px solid #000;
+  font-family: "Proxima Nova Condensed";
+}
+.israel .tour-text p {
+  margin-top: 35px;
+  font-size: 16px;
+  font-family: "Gill Sans";
+}
+.israel .button {
+  display: flex;
+}
+.israel .button .book {
+  margin: 0 auto;
+  padding: 10px 33px;
+  background-color: #79ADDC;
+  color: #FFF;
+  font-family: "Gill Sans";
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.israel1 {
+  background-image: url(../images/israel-tour-01.jpg);
+}
+
+.israel2 {
+  background-image: url(../images/israel-tour-02.jpg);
+}
+
+.israel3 {
+  background-image: url(../images/israel-tour-03.jpg);
+}
+
+.israel {
+  padding-top: 143px;
+  max-width: 980px;
+  margin: 0 auto;
+  min-height: 2000px;
+}
+.israel .package-hero {
   width: 100%;
   height: 413px;
   color: #FFF;
