@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 @media (max-width: 1024px) {
-  .content-wrapper {
+  .about {
     margin: 0 auto;
     width: 93%;
   }
@@ -575,13 +575,22 @@ h1, h2, h3, h4, h5, h6, p {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/tour-09.jpg);
 }
 
-.countries {
+@media (max-width: 1024px) {
+  .tours {
+    padding-top: 142px;
+  }
+  .tours .tours-hero {
+    margin: 0 auto;
+    width: 95%;
+  }
+}
+.packages {
   padding-top: 143px;
   max-width: 980px;
   margin: 0 auto;
   min-height: 2000px;
 }
-.countries .package-hero {
+.packages .package-hero {
   width: 100%;
   height: 413px;
   color: #FFF;
@@ -590,25 +599,25 @@ h1, h2, h3, h4, h5, h6, p {
   background-position: center;
   background-size: cover;
 }
-.countries .package-hero .package-text {
+.packages .package-hero .package-text {
   width: 100%;
   height: 50%;
   padding: 30px;
 }
-.countries .package-hero .package-text h1 {
+.packages .package-hero .package-text h1 {
   font-size: 70px;
 }
-.countries .package-hero .price-text {
+.packages .package-hero .price-text {
   height: 50%;
   display: flex;
   justify-content: flex-end;
   align-items: end;
   padding-right: 15px;
 }
-.countries .package-hero .price-text p {
+.packages .package-hero .price-text p {
   font-size: 30px;
 }
-.countries .pic-wrap {
+.packages .pic-wrap {
   height: 400px;
   width: 100%;
   display: flex;
@@ -616,32 +625,32 @@ h1, h2, h3, h4, h5, h6, p {
   justify-content: space-between;
   margin-bottom: 30px;
 }
-.countries .pic-wrap .tour-pic {
+.packages .pic-wrap .tour-pic {
   height: 347px;
   width: 30%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
-.countries .tour-text {
+.packages .tour-text {
   margin-bottom: 80px;
 }
-.countries .tour-text h2 {
+.packages .tour-text h2 {
   font-size: 60px;
   width: 175px;
   letter-spacing: 5px;
   border-bottom: 2px solid #000;
   font-family: "Proxima Nova Condensed";
 }
-.countries .tour-text p {
+.packages .tour-text p {
   margin-top: 35px;
   font-size: 16px;
   font-family: "Gill Sans";
 }
-.countries .button {
+.packages .button {
   display: flex;
 }
-.countries .button .book {
+.packages .button .book {
   margin: 0 auto;
   padding: 10px 33px;
   background-color: #79ADDC;
@@ -664,6 +673,108 @@ h1, h2, h3, h4, h5, h6, p {
   background-image: url(../images/israel-tour-03.jpg);
 }
 
+.usa1 {
+  background-image: url(../images/usa-tour-01.jpg);
+}
+
+.usa2 {
+  background-image: url(../images/usa-tour-02.jpg);
+}
+
+.usa3 {
+  background-image: url(../images/usa-tour-03.jpg);
+}
+
+.aus1 {
+  background-image: url(../images/aus-tour-01.jpg);
+}
+
+.aus2 {
+  background-image: url(../images/aus-tour-02.jpg);
+}
+
+.aus3 {
+  background-image: url(../images/aus-tour-03.jpg);
+}
+
+.newz1 {
+  background-image: url(../images/nz-tour-01.jpg);
+}
+
+.newz2 {
+  background-image: url(../images/nz-tour-02.jpg);
+}
+
+.newz3 {
+  background-image: url(../images/nz-tour-03.jpg);
+}
+
+.france1 {
+  background-image: url(../images/france-tour-01.jpg);
+}
+
+.france2 {
+  background-image: url(../images/france-tour-02.jpg);
+}
+
+.france3 {
+  background-image: url(../images/france-tour-03.jpg);
+}
+
+.egypt1 {
+  background-image: url(../images/egypt-tour-01.jpg);
+}
+
+.egypt2 {
+  background-image: url(../images/egypt-tour-02.jpg);
+}
+
+.egypt3 {
+  background-image: url(../images/egypt-tour-03.jpg);
+}
+
+.japan1 {
+  background-image: url(../images/japan-tour-01.jpg);
+}
+
+.japan2 {
+  background-image: url(../images/japan-tour-02.jpg);
+}
+
+.japan3 {
+  background-image: url(../images/japan-tour-03.jpg);
+}
+
+.canada1 {
+  background-image: url(../images/canada-tour-01.jpg);
+}
+
+.canada2 {
+  background-image: url(../images/canada-tour-02.jpg);
+}
+
+.canada3 {
+  background-image: url(../images/canada-tour-03.jpg);
+}
+
+.uae1 {
+  background-image: url(../images/uae-tour-01.jpg);
+}
+
+.uae2 {
+  background-image: url(../images/uae-tour-02.jpg);
+}
+
+.uae3 {
+  background-image: url(../images/uae-tour-03.jpg);
+}
+
+@media (max-width: 1024px) {
+  .packages {
+    margin: 0 auto;
+    width: 93%;
+  }
+}
 footer {
   background-color: #79ADDC;
   font-family: "Gill Sans";

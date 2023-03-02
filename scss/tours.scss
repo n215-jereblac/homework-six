@@ -99,3 +99,13 @@
 .uae-tour {
     background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../images/tour-09.jpg);
 }
+
+@media (max-width: 1024px) {
+    .tours {
+        padding-top: 142px;
+    }
+    .tours .tours-hero {
+        margin: 0 auto;
+        width: 95%;
+    }
+}

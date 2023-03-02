@@ -1,4 +1,4 @@
-.countries {
+.packages {
     padding-top: 143px;
     max-width: 980px;
     margin: 0 auto;
@@ -84,4 +84,107 @@
 
 .israel3 {
     background-image: url(../images/israel-tour-03.jpg);
+}
+
+.usa1 {
+    background-image: url(../images/usa-tour-01.jpg);
+}
+
+.usa2 {
+    background-image: url(../images/usa-tour-02.jpg);
+}
+
+.usa3 {
+    background-image: url(../images/usa-tour-03.jpg);
+}
+
+.aus1 {
+    background-image: url(../images/aus-tour-01.jpg);
+}
+
+.aus2 {
+    background-image: url(../images/aus-tour-02.jpg);
+}
+
+.aus3 {
+    background-image: url(../images/aus-tour-03.jpg);
+}
+
+.newz1 {
+    background-image: url(../images/nz-tour-01.jpg);
+}
+
+.newz2 {
+    background-image: url(../images/nz-tour-02.jpg);
+}
+
+.newz3 {
+    background-image: url(../images/nz-tour-03.jpg);
+}
+
+.france1 {
+    background-image: url(../images/france-tour-01.jpg);
+}
+
+.france2 {
+    background-image: url(../images/france-tour-02.jpg);
+}
+
+.france3 {
+    background-image: url(../images/france-tour-03.jpg);
+}
+
+.egypt1 {
+    background-image: url(../images/egypt-tour-01.jpg);
+}
+
+.egypt2 {
+    background-image: url(../images/egypt-tour-02.jpg);
+}
+
+.egypt3 {
+    background-image: url(../images/egypt-tour-03.jpg);
+}
+
+.japan1 {
+    background-image: url(../images/japan-tour-01.jpg);
+}
+
+.japan2 {
+    background-image: url(../images/japan-tour-02.jpg);
+}
+
+.japan3 {
+    background-image: url(../images/japan-tour-03.jpg);
+}
+
+.canada1 {
+    background-image: url(../images/canada-tour-01.jpg);
+}
+
+.canada2 {
+    background-image: url(../images/canada-tour-02.jpg);
+}
+
+.canada3 {
+    background-image: url(../images/canada-tour-03.jpg);
+}
+
+.uae1 {
+    background-image: url(../images/uae-tour-01.jpg);
+}
+
+.uae2 {
+    background-image: url(../images/uae-tour-02.jpg);
+}
+
+.uae3 {
+    background-image: url(../images/uae-tour-03.jpg);
+}
+
+@media (max-width: 1024px) {
+    .packages {
+        margin: 0 auto;
+        width: 93%;
+    }
 }
